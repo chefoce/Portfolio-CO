@@ -244,7 +244,7 @@ span {
 
     0%,
     20% {
-        content: "Back-end Designer";
+        content: "Back-end Developer";
     }
 
     21%,
@@ -259,12 +259,12 @@ span {
 
     61%,
     80% {
-        content: "Web Developer";
+        content: "Designer";
     }
 
     81%,
     100% {
-        content: "Soft Designer";
+        content: "Software engineer";
     }
 }
 
